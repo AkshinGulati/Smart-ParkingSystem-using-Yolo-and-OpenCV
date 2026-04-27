@@ -4,7 +4,7 @@ training.py
 This module describes the training pipeline that can be used to train the YOLO-based object detection model used in this project.
 
 The system is built using the Ultralytics YOLO framework, which supports training on custom datasets in a highly optimized and modular manner. In this project, a pretrained YOLO model trained on the VisDrone dataset has been utilized for detecting vehicles such as cars and vans in aerial or surveillance-style footage.
-
+This specific system was trained on VisDrone dataset which is one of the best for drone captured images used for object detction and tracking.
 If custom training were to be performed, the following pipeline would be used:
 - Dataset preparation in YOLO format (images + labeled bounding boxes)
 - Configuration of dataset YAML file (defining classes such as car, van, bicycle, pedestrian)
