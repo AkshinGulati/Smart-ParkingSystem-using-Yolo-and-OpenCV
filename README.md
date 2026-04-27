@@ -1,4 +1,4 @@
-<img width="828" height="455" alt="image" src="https://github.com/user-attachments/assets/2be3e455-7dba-49fd-8328-b1469652eab7" />1. Project Title  
+1. Project Title  
 Smart Parking Detection System using YOLO and SORT Tracking  
 
 2. Problem Statement  
